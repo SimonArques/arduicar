@@ -1,0 +1,62 @@
+body {
+/*css for full size background image*/
+  background: url(http://www.rabne.tk/wp-content/uploads/2015/01/Grey-background-for-site11.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  
+  height: 100%;
+  background-color: #060;
+  color: #fff;
+  text-align: center;
+  /*text-shadow: 0 1px 3px rgba(0,0,0,.5);*/
+ 
+}
+
+table{
+/*css for the directional pad used for controlling the car
+  the pad is contained inside a table */
+  margin: 200px auto 0;
+  margin-top:30%;
+  background-color: white;
+
+}
+
+.jumbotron{
+
+ background: rgba(147, 147, 184, 0.2); 
+
+ padding-left:60px;
+ padding-right:60px;
+
+}
+
+.jumbotext{
+
+color:black;
+font-weight: normal;
+
+
+
+}
+
+.glyphicon{
+
+  font-size: 50px;
+}
+
+h2{
+
+  padding-top:50px;
+  padding-bottom: 20px;
+}
+
+.panel-body{
+
+    border:solid black 5px;
+    background-color: white;
+    width:70%;
+    margin: 200px auto 0;
+
+}
